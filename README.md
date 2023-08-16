@@ -16,5 +16,6 @@ Insights:
 From the above analysis we can estimate that which batsman and bowler will deliver good performance in coming ipl session (2021) as well as which team will have the maximum posssibility to own the crown
 
 
+
 Links:
 https://public.tableau.com/app/profile/rafat.ara/viz/IPLCASESTUDYDASHBOARDD/IPLCASESTUDYDASHBOARDD
